@@ -1,0 +1,2 @@
+# MyNetCoreReact
+test project
